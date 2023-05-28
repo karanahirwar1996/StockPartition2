@@ -25,4 +25,4 @@ jobs:
         run: pip install pandas requests gspread gspread_dataframe oauth2client beautifulsoup4
 
       - name: Run Python code
-        run: python StockPartition2.py
+        run: python StockPartiton2.py
